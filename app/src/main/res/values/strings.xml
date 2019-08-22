@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">G-Chat</string>
+    <string name="not_user_text">Not Yet an User?</string>
+    <string name="register_text">Register</string>
+    <string name="login_text">Login</string>
+    <string name="email_hint_text">Enter Email</string>
+    <string name="password_hint_text">Enter Password</string>
+    <string name="username_hint_text">Enter username</string>
+</resources>

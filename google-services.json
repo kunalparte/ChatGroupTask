@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "504478708743",
+    "firebase_url": "https://chatgrouptask.firebaseio.com",
+    "project_id": "chatgrouptask",
+    "storage_bucket": "chatgrouptask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504478708743:android:0d3ab43b9e57c8e0",
+        "android_client_info": {
+          "package_name": "com.example.kunalparte.chatgrouptask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504478708743-qbl8uf0ddqv8tbt2to32heqpt2o0inbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5M7W02FjkDgVq_nGak2eJknR9DKWr7iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504478708743-qbl8uf0ddqv8tbt2to32heqpt2o0inbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

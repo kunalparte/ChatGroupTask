@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Font Family-->
+
+    <style name="TextAppearance.FontPath.Regular" parent="android:TextAppearance">
+        <item name="android:fontFamily">fonts/Roboto-Regular.ttf</item>
+    </style>
+
+    <style name="TextAppearance.FontPath.Medium" parent="android:TextAppearance">
+        <item name="android:fontFamily">fonts/Roboto-Medium.ttf</item>
+    </style>
+
+    <style name="TextAppearance.FontPath.Bold" parent="android:TextAppearance">
+        <item name="android:fontFamily">fonts/Roboto-Bold.ttf</item>
+    </style>
+
+    <style name="TextAppearance.FontPath.Light" parent="android:TextAppearance">
+        <item name="android:fontFamily">fonts/Roboto-Light.ttf</item>
+    </style>
+
+    <style name="TextAppearance.FontPath.Thin" parent="android:TextAppearance">
+        <item name="android:fontFamily">fonts/Roboto-Thin.ttf</item>
+    </style>
+
+    <style name="TextAppearance.FontPath.Italic" parent="android:TextAppearance">
+        <item name="android:fontFamily">fonts/Roboto-Italic.ttf</item>
+    </style>
+
+
+    <!--Text Appearance Styles-->
+
+    <style name="font_roboto_regular">
+        <item name="android:textAppearance">@style/TextAppearance.FontPath.Regular</item>
+    </style>
+
+    <style name="font_roboto_medium">
+        <item name="android:textAppearance">@style/TextAppearance.FontPath.Medium</item>
+    </style>
+
+    <style name="font_roboto_bold">
+        <item name="android:textAppearance">@style/TextAppearance.FontPath.Bold</item>
+    </style>
+
+    <style name="font_roboto_light">
+        <item name="android:textAppearance">@style/TextAppearance.FontPath.Light</item>
+    </style>
+
+    <style name="font_roboto_thin">
+        <item name="android:textAppearance">@style/TextAppearance.FontPath.Thin</item>
+    </style>
+
+    <!--Font Sizes-->
+
+    <style name="font_roboto_regular_10_sp" parent="font_roboto_regular">
+        <item name="android:textSize">@dimen/font_10_sp</item>
+    </style>
+
+    <style name="font_roboto_light_10_sp" parent="font_roboto_light">
+        <item name="android:textSize">@dimen/font_10_sp</item>
+    </style>
+
+    <style name="font_roboto_thin_10_sp" parent="font_roboto_thin">
+        <item name="android:textSize">@dimen/font_10_sp</item>
+    </style>
+
+    <style name="font_roboto_medium_10_sp" parent="font_roboto_medium">
+        <item name="android:textSize">@dimen/font_10_sp</item>
+    </style>
+
+    <style name="font_roboto_bold_10_sp" parent="font_roboto_bold">
+        <item name="android:textSize">@dimen/font_10_sp</item>
+    </style>
+
+
+    <style name="font_roboto_regular_12_sp" parent="font_roboto_regular">
+        <item name="android:textSize">@dimen/font_12_sp</item>
+    </style>
+
+    <style name="font_roboto_light_12_sp" parent="font_roboto_light">
+        <item name="android:textSize">@dimen/font_12_sp</item>
+    </style>
+
+    <style name="font_roboto_thin_12_sp" parent="font_roboto_thin">
+        <item name="android:textSize">@dimen/font_12_sp</item>
+    </style>
+
+    <style name="font_roboto_medium_12_sp" parent="font_roboto_medium">
+        <item name="android:textSize">@dimen/font_12_sp</item>
+    </style>
+
+    <style name="font_roboto_bold_12_sp" parent="font_roboto_bold">
+        <item name="android:textSize">@dimen/font_12_sp</item>
+    </style>
+
+
+    <style name="font_roboto_regular_14_sp" parent="font_roboto_regular">
+        <item name="android:textSize">@dimen/font_14_sp</item>
+    </style>
+
+    <style name="font_roboto_light_14_sp" parent="font_roboto_light">
+        <item name="android:textSize">@dimen/font_14_sp</item>
+    </style>
+
+    <style name="font_roboto_thin_14_sp" parent="font_roboto_thin">
+        <item name="android:textSize">@dimen/font_14_sp</item>
+    </style>
+
+    <style name="font_roboto_medium_14_sp" parent="font_roboto_medium">
+        <item name="android:textSize">@dimen/font_14_sp</item>
+    </style>
+
+    <style name="font_roboto_bold_14_sp" parent="font_roboto_bold">
+        <item name="android:textSize">@dimen/font_14_sp</item>
+    </style>
+
+    <style name="font_roboto_bold_64_sp" parent="font_roboto_bold">
+        <item name="android:textSize">@dimen/font_64_sp</item>
+    </style>
+
+    <style name="font_roboto_regular_16_sp" parent="font_roboto_regular">
+        <item name="android:textSize">@dimen/font_16_sp</item>
+    </style>
+
+    <style name="font_roboto_light_16_sp" parent="font_roboto_light">
+        <item name="android:textSize">@dimen/font_16_sp</item>
+    </style>
+
+    <style name="font_roboto_thin_16_sp" parent="font_roboto_thin">
+        <item name="android:textSize">@dimen/font_16_sp</item>
+    </style>
+
+    <style name="font_roboto_medium_16_sp" parent="font_roboto_medium">
+        <item name="android:textSize">@dimen/font_16_sp</item>
+    </style>
+
+    <style name="font_roboto_bold_16_sp" parent="font_roboto_bold">
+        <item name="android:textSize">@dimen/font_16_sp</item>
+    </style>
+
+
+
+    <style name="font_roboto_regular_18_sp" parent="font_roboto_regular">
+        <item name="android:textSize">@dimen/font_18_sp</item>
+    </style>
+
+    <style name="font_roboto_light_18_sp" parent="font_roboto_light">
+        <item name="android:textSize">@dimen/font_18_sp</item>
+    </style>
+
+    <style name="font_roboto_thin_18_sp" parent="font_roboto_thin">
+        <item name="android:textSize">@dimen/font_18_sp</item>
+    </style>
+
+    <style name="font_roboto_medium_18_sp" parent="font_roboto_medium">
+        <item name="android:textSize">@dimen/font_18_sp</item>
+    </style>
+
+    <style name="font_roboto_bold_18_sp" parent="font_roboto_bold">
+        <item name="android:textSize">@dimen/font_18_sp</item>
+    </style>
+
+
+    <style name="font_roboto_regular_20_sp" parent="font_roboto_regular">
+        <item name="android:textSize">@dimen/font_20_sp</item>
+    </style>
+
+    <style name="font_roboto_light_20_sp" parent="font_roboto_light">
+        <item name="android:textSize">@dimen/font_20_sp</item>
+    </style>
+
+    <style name="font_roboto_thin_20_sp" parent="font_roboto_thin">
+        <item name="android:textSize">@dimen/font_20_sp</item>
+    </style>
+
+    <style name="font_roboto_medium_20_sp" parent="font_roboto_medium">
+        <item name="android:textSize">@dimen/font_20_sp</item>
+    </style>
+
+    <style name="font_roboto_bold_20_sp" parent="font_roboto_bold">
+        <item name="android:textSize">@dimen/font_20_sp</item>
+    </style>
+
+
+
+    <!--Font Colors-->
+
+    <style name="font_roboto_regular_10_sp_white" parent="font_roboto_regular_10_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_roboto_regular_12_sp_white" parent="font_roboto_regular_12_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_roboto_regular_14_sp_white" parent="font_roboto_regular_14_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_roboto_regular_16_sp_white" parent="font_roboto_regular_16_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_roboto_regular_18_sp_white" parent="font_roboto_regular_18_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_roboto_regular_20_sp_white" parent="font_roboto_regular_20_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+
+    <style name="font_roboto_regular_10_sp_black" parent="font_roboto_regular_10_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_roboto_regular_12_sp_black" parent="font_roboto_regular_12_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_roboto_regular_14_sp_black" parent="font_roboto_regular_14_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_roboto_regular_16_sp_black" parent="font_roboto_regular_16_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_roboto_regular_18_sp_black" parent="font_roboto_regular_18_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_roboto_regular_20_sp_black" parent="font_roboto_regular_20_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+
+
+    <style name="font_roboto_light_10_sp_white" parent="font_roboto_light_10_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_roboto_light_12_sp_white" parent="font_roboto_light_12_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_roboto_light_14_sp_white" parent="font_roboto_light_14_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_roboto_light_16_sp_white" parent="font_roboto_light_16_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_roboto_light_18_sp_white" parent="font_roboto_light_18_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_roboto_light_20_sp_white" parent="font_roboto_light_20_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+
+    <style name="font_roboto_light_10_sp_black" parent="font_roboto_light_10_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_roboto_light_12_sp_black" parent="font_roboto_light_12_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_roboto_light_14_sp_black" parent="font_roboto_light_14_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_roboto_light_16_sp_black" parent="font_roboto_light_16_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_roboto_light_18_sp_black" parent="font_roboto_light_18_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_roboto_light_20_sp_black" parent="font_roboto_light_20_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+
+
+    <style name="font_roboto_medium_10_sp_white" parent="font_roboto_medium_10_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_roboto_medium_12_sp_white" parent="font_roboto_medium_12_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_roboto_medium_14_sp_white" parent="font_roboto_medium_14_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_roboto_medium_16_sp_white" parent="font_roboto_medium_16_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_roboto_medium_18_sp_white" parent="font_roboto_medium_18_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_roboto_medium_20_sp_white" parent="font_roboto_medium_20_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+
+    <style name="font_roboto_medium_10_sp_black" parent="font_roboto_medium_10_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_roboto_medium_12_sp_black" parent="font_roboto_medium_12_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_roboto_medium_14_sp_black" parent="font_roboto_medium_14_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_roboto_medium_16_sp_black" parent="font_roboto_medium_16_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_roboto_medium_18_sp_black" parent="font_roboto_medium_18_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_roboto_medium_20_sp_black" parent="font_roboto_medium_20_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+
+
+    <style name="font_roboto_bold_10_sp_white" parent="font_roboto_bold_10_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_roboto_bold_12_sp_white" parent="font_roboto_bold_12_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_roboto_bold_14_sp_white" parent="font_roboto_bold_14_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_roboto_bold_16_sp_white" parent="font_roboto_bold_16_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_roboto_bold_18_sp_white" parent="font_roboto_bold_18_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_roboto_bold_20_sp_white" parent="font_roboto_bold_20_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+
+    <style name="font_roboto_bold_10_sp_black" parent="font_roboto_bold_10_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_roboto_bold_12_sp_black" parent="font_roboto_bold_12_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_roboto_bold_14_sp_black" parent="font_roboto_bold_14_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_roboto_bold_16_sp_black" parent="font_roboto_bold_16_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_roboto_bold_18_sp_black" parent="font_roboto_bold_18_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="font_roboto_bold_20_sp_black" parent="font_roboto_bold_20_sp">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+
+    <style name="font_roboto_bold_14_sp_blue" parent="font_roboto_bold_14_sp">
+        <item name="android:textColor">@color/blue</item>
+    </style>
+
+    <style name="font_roboto_bold_64_sp_whit" parent="font_roboto_bold_64_sp">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>

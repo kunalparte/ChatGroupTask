@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="dimen_8_dp">8dp</dimen>
+    <dimen name="dimen_12_dp">12dp</dimen>
+    <dimen name="dimen_16_dp">16dp</dimen>
+    <dimen name="dimen_20_dp">20dp</dimen>
+    <dimen name="dimen_24_dp">24dp</dimen>
+    <dimen name="dimen_32_dp">32dp</dimen>
+    <dimen name ="dimen_40_dp">40dp</dimen>
+    <dimen name="dimen_64_dp">64dp</dimen>
+
+
+    <!-- Text Sizes -->
+    <dimen name="font_10_sp">10sp</dimen>
+    <dimen name="font_12_sp">12sp</dimen>
+    <dimen name="font_14_sp">14sp</dimen>
+    <dimen name="font_16_sp">16sp</dimen>
+    <dimen name="font_18_sp">18sp</dimen>
+    <dimen name="font_20_sp">20sp</dimen>
+    <dimen name="font_24_sp">24sp</dimen>
+    <dimen name="font_64_sp">64sp</dimen>
+
+    <dimen name="design_fab_image_size" tools:override="true">36dp</dimen>
+
+</resources>
